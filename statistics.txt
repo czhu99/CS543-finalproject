@@ -1,0 +1,9 @@
+Inst mean: 64956360.0
+Zhang mean: 62887596.0
+Inst median: 39152544.0
+Zhang median: 38683624.0
+Inst mean (no outliers): 44632050.0
+Zhang mean: (no outliers)43812456.0
+Inst median (no outliers): 35785644.0
+Zhang median: (no outliers)35147610.0
+
